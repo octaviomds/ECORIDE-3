@@ -25,3 +25,7 @@ INSTALLATION DE L'APPLICATION:
 ![IMG_5197 2](https://github.com/user-attachments/assets/b48a5773-c5a8-4ffa-97ca-f00de32dcb02)
 
 <img width="493" height="90" alt="IMG_5204" src="https://github.com/user-attachments/assets/4acc46b7-91c9-4dbd-b1f2-3270c8f5e7e7" />
+
+
+![MongoDB 2](https://github.com/user-attachments/assets/c5f7a8d2-3187-4e09-b112-3dcaa481ca2a)
+![MongoDB 2](https://github.com/user-attachments/assets/385cc3f3-c23e-49fd-ac21-988cd9225073)
