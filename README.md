@@ -1,11 +1,17 @@
 DEMO-APPLICATION:
 
+Réalisation des interfaces utilisateur statiques web ou web mobile:
+
+LE CODE DU PROJET ECORIDE EST DANS LE FICHIER APP.BLADE.PHP
+
+<img width="637" height="230" alt="Capture d’écran 2025-10-21 à 22 45 32" src="https://github.com/user-attachments/assets/0644aabd-7fb5-42fa-93de-d8bd8b76bca8" />
+
 
 
 
 ![Image 28-09-2025 à 03 37](https://github.com/user-attachments/assets/1a1e8370-7715-43b1-a93a-f63e632cc06a)
 
-
+La premiere page du projet Ecoride:
 
 ![Image 29-09-2025 à 22 48](https://github.com/user-attachments/assets/cdceba53-b853-482b-9cd9-3876a28494fe)
 
