@@ -9,7 +9,8 @@ LE CODE DU PROJET ECORIDE EST DANS LE FICHIER APP.BLADE.PHP
 LES AUTRES PAGES DU PROJET ECORIDE:
 
 
-![console php](https://github.com/user-attachments/assets/ca632087-ab5a-4f4b-a1c7-af04350676da)
+
+<img width="686" height="379" alt="Capture d’écran 2025-10-28 à 18 06 13" src="https://github.com/user-attachments/assets/a22ae930-05ab-4575-9ad6-2d2656b1d33f" />
 
 
 
